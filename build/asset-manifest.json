@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3582587f.chunk.css",
-    "main.js": "/static/js/main.e2e33ae9.chunk.js",
-    "main.js.map": "/static/js/main.e2e33ae9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dcbeaf2e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dcbeaf2e.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.93fbe656.chunk.js": "/static/js/2.93fbe656.chunk.js",
-    "static/js/2.93fbe656.chunk.js.map": "/static/js/2.93fbe656.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.3582587f.chunk.css.map": "/static/css/main.3582587f.chunk.css.map",
-    "static/js/2.93fbe656.chunk.js.LICENSE.txt": "/static/js/2.93fbe656.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/steve-johnson-Xx_d26R37E4-unsplash.6f617341.jpg"
+    "main.css": "/web422-week-05-artsy/build/static/css/main.d23f3075.chunk.css",
+    "main.js": "/web422-week-05-artsy/build/static/js/main.e2e33ae9.chunk.js",
+    "main.js.map": "/web422-week-05-artsy/build/static/js/main.e2e33ae9.chunk.js.map",
+    "runtime-main.js": "/web422-week-05-artsy/build/static/js/runtime-main.b786fda7.js",
+    "runtime-main.js.map": "/web422-week-05-artsy/build/static/js/runtime-main.b786fda7.js.map",
+    "static/css/2.150d169a.chunk.css": "/web422-week-05-artsy/build/static/css/2.150d169a.chunk.css",
+    "static/js/2.93fbe656.chunk.js": "/web422-week-05-artsy/build/static/js/2.93fbe656.chunk.js",
+    "static/js/2.93fbe656.chunk.js.map": "/web422-week-05-artsy/build/static/js/2.93fbe656.chunk.js.map",
+    "index.html": "/web422-week-05-artsy/build/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/web422-week-05-artsy/build/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d23f3075.chunk.css.map": "/web422-week-05-artsy/build/static/css/main.d23f3075.chunk.css.map",
+    "static/js/2.93fbe656.chunk.js.LICENSE.txt": "/web422-week-05-artsy/build/static/js/2.93fbe656.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/web422-week-05-artsy/build/static/media/steve-johnson-Xx_d26R37E4-unsplash.6f617341.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcbeaf2e.js",
+    "static/js/runtime-main.b786fda7.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.93fbe656.chunk.js",
-    "static/css/main.3582587f.chunk.css",
+    "static/css/main.d23f3075.chunk.css",
     "static/js/main.e2e33ae9.chunk.js"
   ]
 }
